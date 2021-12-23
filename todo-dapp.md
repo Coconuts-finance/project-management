@@ -1,5 +1,6 @@
 
-1. work on APY's calculations.
-2. remove old references.
-3. clean vaults / stakes structure and declaration.
-4. refactor vaults / stakes declarations via the API to retrieve the lists. This will allow to centralize declarations in one unique store.
+1. ~~work on APY's calculations.~~
+2. remove old references;
+3. clean vaults / stakes structure and declaration;
+4. refactor vaults / stakes declarations via the API to retrieve the lists. This will allow to centralize declarations in one unique store;
+5. add top menu with vaults / stakes menu items to allow user navigate between lists;
